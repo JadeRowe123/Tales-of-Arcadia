@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral+SC:wght@300&display=swap');
+body{
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    font-family: 'Spectral SC', serif;
+}
+h1{
+color: white;
+font-size: 40px;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+
+#trollhunters{
+    height: 1300px;
+    width: 1100px;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+#below{
+    border: 5px solid white;
+    border-radius: 10px;
+}
+#wizards{
+    border: 5px solid white;
+    border-radius: 10px;
+    height: ;
+    width: 1100px;
+}
+#titans{
+    border: 5px solid white;
+    border-radius: 10px;
+}
